@@ -1,9 +1,16 @@
+<p align="center">
+  <img src="https://github.com/ananeres/prompts-for-article-generate-by-ia/blob/main/assets/exemplo-artigo.png" alt="imagem com titulo:html input variedades e suas aplicações " />
+</p>
+
+ <br/><br/>
+
 # 🤖 Projeto de artigo técnico gerado por I.A.s
 
 
- > ℹ️ **NOTE:** Este é o repositório foi desenvolvido durante um curso  na plataforma da [DIO](https://dio.me).
+ 
 
 Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura agradável e com foco em promover sua autoridade técnica.
+> ℹ️ **NOTE:** Este é o repositório foi desenvolvido durante um curso  na plataforma da [DIO](https://dio.me).
 
 <a href="https://web.dio.me/articles/html-input-conheca-as-variedades-e-suas-aplicacoes?back=%2Farticles&page=1&order=oldest" title="View PDF now"> 📕Clique aqui para ler o artigo</a>
 
