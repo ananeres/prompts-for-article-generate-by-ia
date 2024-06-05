@@ -14,22 +14,16 @@ Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura a
 
 <a href="https://web.dio.me/articles/html-input-conheca-as-variedades-e-suas-aplicacoes?back=%2Farticles&page=1&order=oldest" title="View PDF now"> 📕Clique aqui para ler o artigo</a>
 
- <br/><br/>
-
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) - para título e conteúdo
 - [Lexica.art](https://lexica.art/) - para gerar imagens
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint) - Para formatação de banners e Layouts
 
-<br/><br/>
-
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
 - Imagens do acervo público geradas via Lexica.art
-  
-<br/><br/>
 
 # Autora: Ana Patrícia
 <div>
